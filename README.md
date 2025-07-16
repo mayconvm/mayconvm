@@ -1,5 +1,7 @@
 ## Maycon V. Moreira
 
+Sou apaixonado por tecnologia e adoro encarar novos desafios. Tenho experiência prática em desenvolvimento de software e estou sempre ligado nas novidades do mercado. <br>
+Trabalho com dedicação, criatividade e bom humor, porque acredito que resultados excepcionais também vêm de um ambiente leve e colaborativo. <br>
 
 
 ## Contatos:
@@ -26,7 +28,7 @@
   <img src="https://img.shields.io/static/v1?label=E-mail&message=mayconvm@gmail.com&logo=mail&logoColor=white&color=blue&style=for-the-badge"/>
 </a>
 
-<br>
+<br><br>
 
 <a href="https://www.credly.com/badges/9e52d210-a260-439b-b9c4-516fc34b4c19" target="_blank">
   <img src="./aws-certified-cloud-practitioner.png" alt="aws-certified-cloud-practitioner"/>
